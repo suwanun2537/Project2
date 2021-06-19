@@ -1,3 +1,3 @@
 <?php
-echo "tang"
-?>git init
+echo "suwanun"
+?>
