@@ -1,3 +1,4 @@
 <?php
-echo "suwanun"
+echo "suwanun";
+echo "วิทยาลัยชุมชนพังงา";
 ?>
